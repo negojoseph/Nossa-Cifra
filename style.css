@@ -1,0 +1,184 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+div {
+    width: 30px;
+    height: 15px;
+    display: inline-block;
+    position: relative;
+}
+#em7-1 {
+    margin-left: 95px;
+}
+#mostrar {
+    display: none;
+    z-index: 10;
+} 
+#g7m:hover #mostrar {
+    display: block;
+    position: fixed;
+}
+#mostrar1 {
+    display: none;
+    z-index: 10;
+}
+#em7:hover #mostrar1 {
+    display: block;
+    position: absolute;
+    
+}
+#mostrar2 {
+    display: none;
+    z-index: 10;
+} 
+#am7:hover #mostrar2 {
+    display: block;
+    position: absolute;
+}
+#mostrar3 {
+    display: none;
+    z-index: 10;
+}
+#c-d:hover #mostrar3 {
+    display: block;
+    position: absolute;
+}
+#em7-2 {
+    margin-left: 115px;
+}
+#mostrar4 {
+    display: none;
+    z-index: 10;
+}
+#g7m:hover #mostrar4 {
+    display: block;
+    position: absolute;
+}
+#bm7-1 {
+    margin-left: 80px;
+}
+#mostrar5 {
+    display: none;
+    z-index: 10;
+}
+#em7:hover #mostrar5 {
+    display: block;
+    position: absolute;
+}
+#mostrar6 {
+    display: none;
+    z-index: 10;
+}
+#am7:hover #mostrar6 {
+    display: block;
+    position: absolute;
+}
+#mostrar7 {
+    display: none;
+    z-index: 10;
+}
+#c-d:hover #mostrar7 {
+    display: block;
+    position: absolute;
+}
+#mostrar8 {
+    display: none;
+    z-index: 10;
+}
+#g7m:hover #mostrar8 {
+    display: block;
+    position: absolute;
+}
+#mostrar9 {
+    display: none;
+    z-index: 10;
+}
+#bm7:hover #mostrar9 {
+    display: block;
+    position: absolute;
+}
+#mostrar10 {
+    display: none;
+    z-index: 10;
+}
+#em7:hover #mostrar10 {
+    display: block;
+    position: absolute;
+}
+#em7-3 {
+    margin-left: 110px;
+}
+#mostrar11 {
+    display: none;
+    z-index: 10;
+} 
+#g7m:hover #mostrar11 {
+    display: block;
+    position: absolute;
+}
+#mostrar12 {
+    display: none;
+    z-index: 10;
+}
+#em7:hover #mostrar12 {
+    display: block;
+    position: absolute;
+}
+#mostrar13 {
+    display: none;
+    margin-left: 120px;
+    z-index: 10;
+}
+#am7:hover #mostrar13 {
+    display: block;
+    position: absolute;
+}
+#mostrar14 {
+    display: none;
+    z-index: 10;
+}
+#am7m:hover #mostrar14 {
+    display: block;
+    position: absolute;
+}
+#mostrar15 {
+    display: none;
+    margin-left: 220px;
+    z-index: 10;
+}
+#f7m:hover #mostrar15 {
+    display: block;
+    position: absolute;
+}
+#mostrar16 {
+    display: none;
+    margin-left: 150px;
+    z-index: 10;
+}
+#am7:hover #mostrar16 {
+    display: block;
+    position: absolute;
+}
+#mostrar17 {
+    display: none;
+    margin-left: 170px;
+    z-index: 10;
+}
+#c-d:hover #mostrar17 {
+    display: block;
+    position: absolute;
+}
+#mostrar18 {
+    display: none;
+    margin-left: 220px;
+    z-index: 10;
+} 
+#g7m:hover #mostrar18 {
+    display: block;
+    position: absolute;
+}
+#video {
+    position: absolute;
+    margin-left: 450px;
+    margin-top: 10px;
+}
